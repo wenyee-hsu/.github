@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Alt](AWS.drawio.svg)
+![Alt]([AWS.drawio.svg](https://github.com/wenyee-hsu/.github/AWS.drawio.svg))
 
 <!--
 
